@@ -1,4 +1,4 @@
-# COSC-6375.001_Distributed_System_Final-Project
+# Responsible Federated Learning
 
 # Project: Ensuring Grid Resilience through Responsible Federated Learning: A Multi-Pillar Audit of Distributed Short-Term Load Forecasting
 
